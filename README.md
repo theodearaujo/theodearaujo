@@ -58,7 +58,7 @@ theo:
 <img src="https://skillicons.dev/icons?i=aws,linux,git,github&theme=dark" />
 
 ### 🛠️ Ferramentas
-<img src="https://skillicons.dev/icons?i=vscode,intellij,idea,postman,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,intellij,idea&theme=dark" />
 
 </div>
 
@@ -127,33 +127,6 @@ theo@dev:~$ cat objetivos_2026.txt
 
 theo@dev:~$ _
 ```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
-
-## `[ GITHUB_ANALYTICS.dashboard ]`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=theodearaujo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=FF00E5&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=theodearaujo&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F0FF&ring=FF00E5&fire=FFD700&currStreakLabel=00F0FF" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodearaujo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9&langs_count=8" width="49%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theodearaujo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F0FF&line=FF00E5&point=FFD700" width="98%" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
-
-## `[ TROPHIES.unlocked ]`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=theodearaujo&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
 
