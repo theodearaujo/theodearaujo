@@ -30,7 +30,7 @@
 ```yaml
 theo:
   full_name: "Theo de Araujo Marques de Jesus"
-  role: "Estudante de Programação & Ciência de Dados"
+  role: "Estudante de Ciência de Dados e Inteligência Artificial (PUCRS)"
   location: "Brasil"
   languages: ["Java", "Python"]
   currently_exploring: "AWS Cloud Services ☁️"
