@@ -1,8 +1,5 @@
 <div align="center">
-
-<!-- BANNER PRINCIPAL -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=THEO%20DE%20ARAUJO&fontSize=48&fontColor=00F0FF&fontAlignY=38&desc=SYSTEM.INIT()%20%3E%3E%20Software%20%26%20Cloud%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
+  
 <br/>
 
 <!-- TYPING ANIMATION -->
